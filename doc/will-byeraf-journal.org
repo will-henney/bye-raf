@@ -1,0 +1,5 @@
+Journal of my progress towards replacing IRAF in Tere's workflows
+* Sample project from Tere
++ This is currently in a shared Dropbox folder, which I have locally renamed ~tere-sample-iraf-mes-project~
++ I need to find what a minimum set of fits files are for the entire workflow
++ Then I can copy those to this repo
